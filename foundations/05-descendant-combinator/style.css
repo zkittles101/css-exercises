@@ -1,0 +1,11 @@
+div .text {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
+
+/* Alternative selectors that would also do the same thing */
+/* div p{} */
+/* .container .text{} */
+
